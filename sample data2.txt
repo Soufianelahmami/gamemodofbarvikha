@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"Helper mod 1","desc":"https://www.mediafire.com/file/2czh73nc6jir497/sampleguide_data_inserver.rar/file","photo":"https://iili.io/HUW6DCl.jpg"},
+  {"title":"how to use this app 2 ","desc":"One such game that has captured the attention of players worldwide is Barvikha RP.","photo":"https://iili.io/HUW6LTG.webp"},
+  {"title":"advance pack 3","desc":"This article will delve into the details of the Barvikha RP game, exploring its concept, gameplay mechanics, and the reasons behind its popularity.","photo":"https://iili.io/HUW6Qjf.jpg"},
+  {"title":"tips mod 4","desc":"Barvikha RP is an open-world roleplaying game (RPG) set in a fictional town called Barvikha. The game draws inspiration from real-life locations, particularly the affluent Barvikha village situated near Moscow, Russia. ","photo":"https://iili.io/HUW6ips.jpg"},
+  {"title":"advice pack 5","desc":"The developers have meticulously recreated the essence of this exclusive locale, incorporating stunning visuals and intricate details to bring the virtual town to life.","photo":"https://iili.io/HUW6ZQ4.jpg"},
+  {"title":"helper mod 6","desc":"The setting of Barvikha RP is characterized by luxurious mansions, high-end boutiques, extravagant parties, and a vibrant social scene. ","photo":"https://iili.io/HUW6bG2.jpg"},
+  {"title":"how to use this app 7","desc":"Players assume the roles of diverse characters, each with their unique background, goals, and motivations, and immerse themselves in the virtual society of Barvikha.","photo":"https://iili.io/HUW6m4S.jpg"},
+  {"title":"tips pack 8","desc":"Barvikha RP provides players with a wide range of activities and interactions to engage in, fostering a dynamic and immersive gameplay experience. ","photo":"https://iili.io/HUW6y37.jpg"}
 
    ]
  
